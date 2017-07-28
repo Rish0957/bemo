@@ -13,8 +13,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
   
   
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://rish0957.github.io/bemo/" # the base hostname & protocol for your site
+baseurl: "/bemo" # the subpath of your site, e.g. /blog
+url: "https://rish0957.github.io" # the base hostname & protocol for your site
 
 #sidebar
 default-image: bemo_logo.png # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
