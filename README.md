@@ -1,2 +1,3 @@
 # bemo
 A blog built using Jekyll ...
+Live preview click here: [bemo](https://rish0957.github.io/bemo/)
